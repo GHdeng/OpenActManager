@@ -1,5 +1,4 @@
-# OpenActManager
-##Android界面跳转传递参数封装
+#Android界面跳转传递参数封装
 
 ###问题分析
 
